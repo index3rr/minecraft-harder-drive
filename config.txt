@@ -1,0 +1,4 @@
+# Lines starting with "#" are ignored.
+
+python="/usr/bin/python3"
+autorun[*]=nbd;

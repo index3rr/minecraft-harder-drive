@@ -1,0 +1,14 @@
+Firstly, Be on linux
+Secondly, install prism launcher
+Thirdly, make an instance of prism called HARDER and install litematica, baritone, minescript 5 beta, or just latest, minecraft 1.21.5, fabric, meteor (for freecam), and whatever else you want on there.
+Fourthly, install nbdkit for your version of linux, make sure you get the nessesary components to run the python module of it.
+Fifthly, Put the config.txt, and nbd.py files in the minescript folder of your HARDER instance.
+Sixthly, Edit the start.sh script where it starts prism to open up the server or whatever of your choosing
+Seventhly, edit nbd.py to have your desired chunks set.
+Seven and a halfthly, pip install mcschematic for the specific version of python that minescript uses.
+Eighthly, run the start.sh script, and wait for it to finish. It should start the minecraft instance and open the server or whatever, and then say "waiting for command"
+Ninthly, run the format.sh script, and wait for it to finish. It should format the drive.
+If you attempt to mount the drive normally through dolphin it will do odd shit and write a whole bunch to disk and time out, so mount it by using
+sudo mount /dev/nbd0 /run/media/*uruser*/HARDERDRIVE for fedora kde or whatever the equivilent thing is for your os
+it should now appear in your file explorer, place files in it, and baritone will build them. I would reccomend doing all interaction with it through terminal, though, or youll get unexpected writes that take fucking forever :[ 
+whenever u feel like run ./stop.sh to stop the drive, it wont stop mc tho so manually take care of that

@@ -1,0 +1,17 @@
+8/4/25 - thought of this idea cuz i watched someone use minecraft as a web server and i was like damn this would make a great harder drive
+https://www.youtube.com/watch?v=DSAnn5BOIBA
+I just managed to remember that we cannot in fact store an entire byte inside of one block, meaning the filesystem cannot be in one single chunk. fuck.
+had to manually drag mcschematic into a folder that minescript can see it lol
+
+8/7/25 - nvm just use a command to install stuff specifically for the correct version of python
+i built out quite a few of the functions today, and built the architechture for writing in excalidraw
+
+8/8/25 - dealing with 2 different undebuggable python scripts is going to be a nightmare lmao
+potential issue: i need to make sure that the layers returning functionality actually works and clears nessesary layers before adding more data
+i think it should be able to stream the data to the client, but i'm not sure how to do that, seems a bit hard with the current project structure.
+also god youd think that reading the data would be fast but its so god damn slow holy shit bro
+theoretically, absolutely everything just works, but theres no shot. im formatting it now.
+reading and writing seemingly worked the first time i ran it... it no longer appears to work... i have no idea what's going on
+oh my goodness it work!!!!!!!! it freaking works
+im gonnan go make some files to store on it and then tommorow i can put it on 2b2t or that other anarchy server lol ive never played anarchy really except i had a base on like 8b8t or some shit like that
+i need to have it alert me when 
