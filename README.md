@@ -13,8 +13,8 @@ Who are you?
 ## Whats going on?
 I'm Scared.
 
-## When is this?
-If you read the project.txt file itll give you a log of me writing about what problems i had on this journey and when.
+## When should I use this?
+If you are running out of storage space, need like 65 kb more, and have a lot of wool on a minecraft anarchy server
 
 ## Where is this?
 ?? i get that it makes sense to ask all of the W questions but like obviously thats a stupid question bro stfu
